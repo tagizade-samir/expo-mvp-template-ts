@@ -41,3 +41,5 @@ This is a template for Expo projects. It includes the following:
 ```bash
 npx create-expo-app APP_NAME --template expo-mvp-template-ts
 ```
+
+As the last step, modify `package.json` file and change `author` and `homepage` values to your own.
