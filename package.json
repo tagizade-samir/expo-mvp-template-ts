@@ -1,6 +1,6 @@
 {
   "name": "expo-mvp-template-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "keywords": ["expo", "typescript", "react-native", "react", "mvp", "template", "minimal", "navigation", "axios", "lottie", "lodash"],
   "description": "This project is a minimal MVP template for Expo with TypeScript, Navigation and Axios.",
